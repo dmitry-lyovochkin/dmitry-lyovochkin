@@ -1,23 +1,14 @@
-## Hello, I'm Dmitry 👋
+## Hello, I'm Dmitry 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmitry-lyovochkin.visitor-badge)
 
-### I'm a flutter developer and bloger
 
-- 🔭 I’m currently working on English app.
-- 🌱 I’m currently learning Dart/Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
----
+### 📈 GitHub stats
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-lyovochkin&show_icons=true&theme=radical&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-lyovochkin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ### You can contact me:
 
-[<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />] [instagram]
-
-[telegram]
-[instagram] https://www.instagram.com/mobile.dev.8/
-[linkedin]
-[codewars]
