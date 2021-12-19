@@ -9,13 +9,13 @@
 
 
 
-### 👍 You can contact me:
+## 👍 You can contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/dmitrylyovochkin/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/Hey_008)
 
-## My blog:
+### 💻 My blog:
 
 [![Instagram](https://img.shields.io/badge/Instagram-Blog-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/mobile.dev.8/)
 
