@@ -1,4 +1,4 @@
-## Hello, I'm Dmitry 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmitry-lyovochkin.visitor-badge)
+## 🖐 Welcome ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmitry-lyovochkin.visitor-badge)
 
 
 ### 📈 GitHub stats
