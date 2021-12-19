@@ -1,4 +1,4 @@
-## Hello, I'm [Dmitry] 👋
+## Hello, I'm Dmitry 👋
 
 ### I'm a flutter developer and bloger
 
@@ -15,9 +15,9 @@
 
 ### You can contact me:
 
-[<img align="left" alt=Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />] [instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />] [instagram]
 
 [telegram]
-[instagram]
+[instagram] https://www.instagram.com/mobile.dev.8/
 [linkedin]
 [codewars]
