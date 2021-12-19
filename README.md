@@ -1,9 +1,6 @@
-### Hi there 👋
+## Hello, I'm [Dmitry] 👋
 
-
-**dmitry-lyovochkin/dmitry-lyovochkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I'm a flutter developer and bloger
 
 - 🔭 I’m currently working on English app.
 - 🌱 I’m currently learning Dart/Flutter
@@ -14,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
+### You can contact me:
+
+[<img align="left" alt=Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />] [instagram]
+
+[telegram]
+[instagram]
+[linkedin]
+[codewars]
