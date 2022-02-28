@@ -12,6 +12,8 @@
 ### 🙂 About me
 
 ### 🎨 Current project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=
+dmitry-lyovochkin&repo=ecommerce_project)](https://github.com/dmitry-lyovochkin/Ecommerce_project/tree/master/ecommerce_project)
 
 ### 👍 You can contact me:
 <p align="left">
