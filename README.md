@@ -1,8 +1,8 @@
-##### 🖐 Welcome ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmitry-lyovochkin.visitor-badge)
+# 🖐 Welcome ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmitry-lyovochkin.visitor-badge)
 
-### 🙂 About me
+## 🙂 About me
 
-#### 📈 GitHub stats
+## 📈 GitHub stats
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=dmitry-lyovochkin&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-lyovochkin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -17,7 +17,7 @@
 <br>
 
 
-# 👍 You can contact me:
+## 👍 You can contact me:
 <br>
 <p align="left">
   &nbsp;
@@ -29,7 +29,7 @@
 </p>
 
 
-### 💻 My blog:
+## 💻 My blog:
 <br>
 <p align="left">
   &nbsp;
