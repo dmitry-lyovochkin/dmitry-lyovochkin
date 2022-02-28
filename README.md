@@ -9,8 +9,6 @@
   <br>
 </p>
 
-### 🙂 About me
-
 ### 🎨 Current project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmitry-lyovochkin&repo=ecommerce_project&theme=darcula&hide_border=true)](https://github.com/dmitry-lyovochkin/Ecommerce_project/tree/master/ecommerce_project)
 
